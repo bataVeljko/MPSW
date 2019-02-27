@@ -1,2 +1,2 @@
-# MPSW
-Project for methodology of professional and scientific work course at Faculty of Mathematics, University of Belgrade.
+# RMPS
+Project for Research Methods and Professional Skills course at Faculty of Mathematics, University of Belgrade.
